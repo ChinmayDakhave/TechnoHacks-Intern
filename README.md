@@ -1,5 +1,5 @@
 # TechnoHacks-Intern
-Task 4 : Fraud Transaction Detection
+Task 3 : Fraud Transaction Detection
 
 Use a dataset of credit card transactions and
 build a model that can identify potentially
