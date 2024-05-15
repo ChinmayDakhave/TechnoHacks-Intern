@@ -1,11 +1,9 @@
 # TechnoHacks-Intern
-Task 1 : House Price Prediction
+Task 3 : Fraud Transaction Detection
 
-Use a dataset that includes information about
-housing prices and features like square
-footage, number of bedrooms, etc. to train a
-model that can predict the price of a new
-house
+Use a dataset of credit card transactions and
+build a model that can identify potentially
+fraudulent transactions
 
 
-DataSet:- https://www.kaggle.com/datasets/harlfoxem/housesalesprediction
+DataSet:- https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
