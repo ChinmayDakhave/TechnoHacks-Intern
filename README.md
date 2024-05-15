@@ -1,11 +1,10 @@
 # TechnoHacks-Intern
-Task 1 : House Price Prediction
+Task 2 : Employee turnover prediction
 
-Use a dataset that includes information about
-housing prices and features like square
-footage, number of bedrooms, etc. to train a
-model that can predict the price of a new
-house
+Use a dataset of employee information and
+build a model that can predict which
+employees are most likely to leave the
+company
 
 
-DataSet:- https://www.kaggle.com/datasets/harlfoxem/housesalesprediction
+DataSet:- https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset
